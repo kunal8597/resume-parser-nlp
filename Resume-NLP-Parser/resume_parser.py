@@ -679,8 +679,6 @@ if evaluation_results:
         print(f"  Precision: {metrics['precision']:.2f}")
         print(f"  Recall: {metrics['recall']:.2f}")
         
-else:
-    print("Evaluation failed.")
 
 
 # ...
